@@ -132,6 +132,13 @@ https://cloud.ibm.com/classic/devices
 ```
 You can find device name in the Device list 
 
+
+### Reference
+* https://blog.kylekr.com/ibm-cloud-terraform-and-ansible
+* https://cloud.ibm.com/docs/terraform?topic=terraform-manage_resources
+* https://ibm-cloud.github.io/tf-ibm-docs/index.html
+* https://cloud.ibm.com/docs/terraform?topic=terraform-setup_cli#setup_cli
+
 #### End of Document
 
 
